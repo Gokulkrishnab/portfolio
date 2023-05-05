@@ -1,0 +1,86 @@
+.topcontainer{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    padding-top: 150px;
+    background-color:  #e4f9f5;
+    height: 80vh;
+}
+h1{
+    
+    
+    color: #66bfbf;
+    font-size: 5.625rem;
+    
+
+    
+}
+h2 {
+    padding-top: 30px;
+    font-size: 3rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+   
+    color: #66bfbf;
+}
+.proilepic{
+    padding-top: 100px;
+    border-radius: 50%;
+    height: 350px;
+}
+body{
+    text-align: center;
+}
+P{
+    line-height: 2;
+    font-size: 1.2rem;
+
+    padding-bottom: 60px;
+}
+.lang{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.tech{
+    padding-top: 50px;
+    
+}
+.parent{
+    display: block;
+
+}
+hr {
+    border: dotted #7df5f5 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+h3{
+    padding-top: 30px;
+    font-size: 1.3rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+   
+    color: #66bfbf;
+}
+.address{
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+.btn{
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border:none;
+    margin-bottom: 50px;
+}
+.botcontainer{
+    background-color: #66bfbf;
+    padding: 10px;
+}
